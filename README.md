@@ -31,37 +31,6 @@ The firm's specialist practice includes:
 - Fund-flow and financial irregularity investigations
 - Dispute-related financial analysis
 
-## Website Overview
-
-The website presents the firm's specialist positioning, leadership, professional credentials, approach and advisory services. It is structured to help prospective clients understand the firm's capabilities and initiate a confidential enquiry.
-
-### Main Website Sections
-
-- **Home** — Introduction to the firm's forensic and investigative practice
-- **About** — Firm background, leadership, credentials, philosophy and recognition
-- **Services** — Specialist advisory and investigative services
-- **Industries** — Industry coverage
-- **Approach** — The firm's working methodology
-- **Insights** — Professional insights and information
-- **Contact Us** — Enquiry channel for prospective clients
-
-### Key Website Elements
-
-- Responsive navigation with a mobile menu
-- Dedicated firm and leadership presentation
-- CA and CFE credential highlights
-- Awards and professional recognition section
-- Service and industry information architecture
-- Confidential enquiry calls to action
-- Contact information and enquiry form access
-
-## Practice Principles Presented on the Website
-
-1. **Confidentiality** — Restricting access to sensitive engagement information.
-2. **Independence** — Reporting findings in line with the available evidence.
-3. **Accuracy** — Testing and reconciling figures against source records.
-4. **Professional judgement** — Matching investigative methods to the matter.
-
 ## Development Scope
 
 - Custom business website design and development
